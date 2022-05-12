@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Combustivel <code>src/App.tsx</code> and save to reload.
+          Combustivel <code>src/App.tsx</code> Vinicius G.
         </p>
         <a
           className="App-link"
